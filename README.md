@@ -52,3 +52,12 @@ HydroIQ is built around the principles of accessibility, affordability, and resi
     </td>
   </tr>
 </table>
+
+## Impacts
+- Provides safe drinking water access to underserved populations
+
+- Saves time spent walking long distances for water
+
+- Improves public health and reduces medical burden
+
+- Promotes environmental sustainability by reducing plastic waste
